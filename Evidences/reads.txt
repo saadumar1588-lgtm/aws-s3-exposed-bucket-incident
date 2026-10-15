@@ -1,5 +1,0 @@
-2026-10-14T14:39:23Z	<MY IP>	      [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36]	OK
-2026-10-14T14:41:20Z	<MY IP>  	[WhatsApp/2.2639.100 W]	OK
-2026-10-14T14:41:28Z	<MY IP>       [Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36]	OK
-2026-10-14T19:41:06Z	<MY IP> 	[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36]	AccessDenied
-2026-10-14T19:41:07Z	<MY IP> 	[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36]	AccessDenied
